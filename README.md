@@ -44,3 +44,7 @@ To untether once tethered right click again.
 
 Left click + rocket equipped = Fire rocket.
 
+## Known Bugs
+There is an issue with the pathfinding of the goose which causes crashing on being set to Patrolling a route.
+As a temporary solution, that section is commented out so the rest of the demo can be enjoyed still while I make a fix.
+
