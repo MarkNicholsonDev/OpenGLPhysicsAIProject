@@ -8,7 +8,13 @@ See my portfolio for additional information: https://marknicholsondev.github.io/
 ## List of Features
 | Name | Description |
 | ------------- | ------------- |
-| To be filled out | To be filled out |
+| Grappling Hook | Created from a chain of distance constraints to simulate the physics of a rope |
+| Rope Tethering | Allows the player to tie two objects together with a fixed length of rope |
+| Simple Rocket | Causes an explosion on mouse click, with scaling explosive force based off distance to the center of the explosion |
+| Behaviour Tree AI agent (Goose) | The AI uses a behaviour tree with multiple different behaviours and transition states between them. |
+| Menu System | Controlled by Pushdown Automata which pushes and pops game states similarly to a stack allowing for  |
+| Simple State machine AI (Moving platform) | Platform which moves side to side based off of a timer |
+| Maze generation | Done via reading in a txt file allowing for half walls, walls and open areas to be spawned in |
 
 ## Controls within the scene
 ### General controls:
